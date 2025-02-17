@@ -24,10 +24,6 @@ Sorteador de números aleatorios
 6. Os números sorteados serão exibidos na tela.
 7. Clique no botão "Reiniciar" para limpar os campos e reiniciar a aplicação.
 
-# Exemplo de Uso
-
-![Exemplo de Uso](img/ia.png)
-
 # Tecnologias Utilizadas
 
 - HTML
